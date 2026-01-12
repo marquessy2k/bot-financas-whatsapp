@@ -1,0 +1,13 @@
+{
+    "saldo": -15.0,
+    "historico": [
+        {
+            "valor": 5.0,
+            "categoria": "outros"
+        },
+        {
+            "valor": 10.0,
+            "categoria": "outros"
+        }
+    ]
+}
